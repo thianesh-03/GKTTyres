@@ -1,0 +1,40 @@
+{
+    "tyres": [
+      {
+        "name": "SIRAC STREET",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4qjymrfojgfyfor/mo-63_tire_michelin_sirac-street_ww_set_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "tyre design for daily use in urban areas",
+        "features": ["Solid wet and dry grip with class leading mileage"]
+      },
+      {
+        "name": "ANAKEE CROSS",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4q86bgb8i89jzor/mo-123_tire_michelin_anakee-cross-ind_ww_set_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "All-round performance no matter the terrain",
+        "features": [
+          "Robustness",
+          "Longevity without uneven wear",
+          "Grip on any surface"
+        ]
+      },
+      {
+        "name": "PILOT STREET 2",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4qzptzsictt3x6a/mo-93_tire_michelin_pilot-street-2_ww_set_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "Safety on wet and dry surfaces for everyday use",
+        "features": [
+          "Grip in the wet(1)",
+          "Cover greater distances",
+          "Avoid nasty surprises"
+        ]
+      },
+      {
+        "name": "CITY EXTRA",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4q3ps3iukhk78qy/mo-119_tire_michelin_city-extra_ww_set_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "Durable and reliable for a trouble-free ride",
+        "features": [
+          "Long lasting",
+          "Excellent wet grip",
+          "Robust and resistant"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,64 @@
+{
+    "tyres": [
+      {
+        "name": "Primacy 3",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4x5gnqyc18zt8uw/4w-105_3528704123940_tire_michelin_primacy-3_205-slash-55-r16-91v_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "With its excellent performance on wet roads(1), the MICHELIN Primacy 3 summer tyre was awarded by ADAC as best in its category in 2015 and 2018(7).",
+        "features": ["All season", "Suitable for EV"]
+      },
+      {
+        "name": "Primacy 4",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4x4gurpmaro98po/4w-359_3528707773869_tire_michelin_primacy-4_205-slash-55-r16-91v_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "The MICHELIN Primacy 4 tyre is designed for safety made to last(1) and excellent longevity(4)",
+        "features": ["All season", "Suitable for EV"]
+      },
+      {
+        "name": "Pilot Sport 4 SUV",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4xuurgci4ufnsmy/4w-365_3528700002072_tire_michelin_pilot-sport-4-suv_295-slash-35-r21-107y-xl_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "The MICHELIN Pilot Sport 4 SUV tyre, designed for SUVs, provides a premium and comfortable experience, with high performance driving made to last.",
+        "features": ["All season", "Suitable for EV"]
+      },
+      {
+        "name": "Primacy 4 ST",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4qd8gwzn37xt9ow/4w-366_3528703891734_tire_michelin_primacy-4-st_225-slash-55-r17-101w-xl_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "The MICHELIN Primacy 4 summer tyre is designed for safety made to last(1) while providing a quiet and comfortable driving experience.",
+        "features": ["All season", "Suitable for EV"]
+      },
+      {
+        "name": "Pilot Sport 4",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4xe194hr9qcgqyy/4w-238_3528700093414_tire_michelin_pilot-sport-4_245-slash-40-zr18-97y-xl_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "The MICHELIN Pilot Sport 4 tyre adapts to the road thanks to precision handling with safety made to last, steering control(1) and longevity(2).",
+        "features": ["All season", "Suitable for EV"]
+      },
+      {
+        "name": "Energy XM 2+",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4xm69hss7h6oyne/4w-387_3528708368866_tire_michelin_energy-xm2-plus_205-slash-55-r16-91v_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "The MICHELIN Energy XM2+ long-lasting road tyre(1) delivers excellent robustness with wet braking performance made to last(3), for safety even when worn(2).",
+        "features": ["All season", "Suitable for EV"]
+      },
+      {
+        "name": "Primacy SUV+",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4xqxh3tkdr7h57e/4w-989_3528702273791_tire_michelin_primacy-suv-plus_235-slash-60-r18-103v_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "Enjoy safety made to last with MICHELIN PRIMACY SUV+, keeping you and your loved ones safe in wet and dry conditions(1)(2)(3), from the first kilometer to the last(4).",
+        "features": ["All season", "Suitable for EV"]
+      },
+      {
+        "name": "Latitude Sport 3",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4xutukrx1ztcjio/4w-45_3528709223034_tire_michelin_latitude-sport-3_275-slash-40-r20-106y-xl_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "Premium SUV tyre with robust design for dynamic handling, MICHELIN Latitude Sport 3 engineered for braking performance on wet roads and longevity.",
+        "features": ["All season", "Suitable for EV"]
+      },
+      {
+        "name": "LTX Trail ST",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4qgn8kzy63kfzdo/4w-502_3528700124194_tire_michelin_ltx-trail-st_265-slash-65-r17-112t_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "Take on paved roads and trails with the MICHELIN LTX Trail tyre, offering long-lasting on and off-road safety. Optimum braking performance when worn and safety in wet conditions(2).",
+        "features": ["All season", "M+S", "Suitable for EV"]
+      },
+      {
+        "name": "Pilot Sport 5",
+        "image": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4xcey3tp75nbgww/4w-986_3528709222846_tire_michelin_pilot-sport-5_225-slash-40-zr18-92y-xl_a_main_1-30_nopad.webp?t=resize&height=500",
+        "description": "Live each driving moment to the fullest, amplify sport performance made to last with the MICHELIN Pilot Sport 5 tyre, designed for high longevity(1).",
+        "features": ["Summer", "Suitable for EV"]
+      }
+    ]
+  }
