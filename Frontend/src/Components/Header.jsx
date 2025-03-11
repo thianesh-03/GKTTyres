@@ -22,7 +22,7 @@ export default function Header() {
           <span>
             <a
               className="pe-4"
-              href="https://www.x.com"
+              href="https://x.com/GTyres94011?t=2ymGy9zJ3lqXZ-tkFqjtYw&s=09"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -32,7 +32,7 @@ export default function Header() {
           <span>
             <a
               className="pe-4"
-              href="https://www.x.com"
+              href="https://www.facebook.com/share/p/18gkgTtS45/"
               target="_blank"
               rel="noopener noreferrer"
             >
