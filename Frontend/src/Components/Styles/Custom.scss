@@ -1,0 +1,17 @@
+$primary: #0768BD;
+$secondary: #797979;
+
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/bootstrap";
+
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Inter:opsz@14..32&display=swap');
+
+.custom-font {
+    font-family: 'Inter', sans-serif;
+    size: 20px;
+}
+
+.custom-navbar{
+    background-color: white;
+}
