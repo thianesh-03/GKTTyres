@@ -1,7 +1,7 @@
 {
     "tyres": [
       {
-        "name": "Safari® MT",
+        "name": "Safari MT",
         "image": "",
         "description": "A rugged mud-terrain tire designed for off-road enthusiasts seeking exceptional performance in challenging conditions with reliable on-road handling.",
         "features": [
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "name": "Safari® AT",
+        "name": "Safari AT",
         "image": "",
         "description": "A versatile all-terrain tire that balances off-road capability with on-road comfort, suitable for SUVs and light trucks in various weather conditions.",
         "features": [
@@ -25,7 +25,7 @@
         ]
       },
       {
-        "name": "Edge™ HT (Light Truck)",
+        "name": "Edge HT (Light Truck)",
         "image": "",
         "description": "A highway terrain tire specifically designed for light trucks, offering a blend of comfort, longevity, and reliable performance in everyday driving conditions.",
         "features": [
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "name": "Edge A/T®",
+        "name": "Edge A/T",
         "image": "",
         "description": "An all-terrain tire that delivers dependable performance both on and off-road, with a durable design that withstands various driving environments.",
         "features": [
@@ -47,7 +47,7 @@
         ]
       },
       {
-        "name": "Edge® Sport",
+        "name": "Edge Sport",
         "image": "",
         "description": "A performance-oriented tire designed for sports cars and sedans, offering precise handling, responsive steering, and excellent grip in both dry and wet conditions.",
         "features": [
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "name": "Edge® Touring A/S",
+        "name": "Edge Touring A/S",
         "image": "",
         "description": "A touring all-season tire focused on providing a comfortable ride, long tread life, and reliable traction for everyday driving in various weather conditions.",
         "features": [
@@ -69,7 +69,7 @@
         ]
       },
       {
-        "name": "Edge® Touring Plus",
+        "name": "Edge Touring Plus",
         "image": "",
         "description": "A premium touring tire that offers enhanced comfort, quieter ride, and improved tread life compared to standard touring tires, with excellent all-weather performance.",
         "features": [

@@ -1,6 +1,11 @@
 $primary: #0768BD;
 $secondary: #797979;
 
+$nav-link-font-size: 20px;
+:root {
+  --bs-nav-link-font-size: #{$nav-link-font-size};
+}
+
 @import "bootstrap/scss/functions";
 @import "bootstrap/scss/variables";
 @import "bootstrap/scss/bootstrap";
@@ -25,4 +30,10 @@ $secondary: #797979;
 
 .font-integral{
     font-family: "IntegralCF";
+}
+
+.font-carousel{
+    font-family: 'IntegralCF';
+    font-size: 49;
+    color: #CFCECD;
 }
