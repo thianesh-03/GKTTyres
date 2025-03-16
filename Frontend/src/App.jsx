@@ -4,6 +4,7 @@ import Header from './Components/Header';
 import Navbar from './Components/Navbar';
 import Carousel from './Components/Carousel';
 import Cards from './Components/Cards';
+import Services from './Components/Services';
 
 function App() {
   
@@ -13,6 +14,7 @@ function App() {
       <Navbar/>
       <Carousel/>
       <Cards/>
+      <Services/>
     </>
   )
 }
