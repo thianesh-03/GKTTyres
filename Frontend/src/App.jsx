@@ -5,6 +5,7 @@ import Navbar from './Components/Navbar';
 import Carousel from './Components/Carousel';
 import Cards from './Components/Cards';
 import Services from './Components/Services';
+import Brands from './Components/Brands';
 
 function App() {
   
@@ -15,6 +16,7 @@ function App() {
       <Carousel/>
       <Cards/>
       <Services/>
+      <Brands/>
     </>
   )
 }
