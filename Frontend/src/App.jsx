@@ -6,6 +6,7 @@ import Carousel from './Components/Carousel';
 import Cards from './Components/Cards';
 import Services from './Components/Services';
 import Brands from './Components/Brands';
+import Testimonials from './Components/Testimonials';
 
 function App() {
   
@@ -17,6 +18,7 @@ function App() {
       <Cards/>
       <Services/>
       <Brands/>
+      <Testimonials/>
     </>
   )
 }

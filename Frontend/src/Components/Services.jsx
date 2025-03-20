@@ -3,48 +3,55 @@ import { Button } from "react-bootstrap";
 const ServiceCard = ({ imageName, title }) => {
   return (
     <section id="services">
-    <div
-      className="service-card d-flex flex-column justify-content-center align-items-center"
-      style={{
-        backgroundImage: `url(/images/${imageName})`,
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-        height: "372px",
-        width: "304px",
-        borderRadius: "30px",
-        position: "relative",
-        overflow: "hidden",
-      }}
-    >
       <div
+        className="service-card d-flex flex-column justify-content-center align-items-center"
         style={{
-          position: "absolute",
-          top: 0,
-          left: 0,
-          width: "100%",
-          height: "100%",
-          backgroundColor: "rgba(0, 0, 0, 0.6)",
+          backgroundImage: `url(/images/${imageName})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+          height: "372px",
+          width: "304px",
+          borderRadius: "30px",
+          position: "relative",
+          overflow: "hidden",
         }}
-      ></div>
-
-      <div className="text-center" style={{ zIndex: 2 }}>
-        <h2 className="font-integral" style={{ fontSize: "28px", color: "white" }}>{title}</h2>
-        <a href="#contactus" style={{textDecoration:"none"}}><Button
-          className="btn d-flex justify-content-center align-items-center"
+      >
+        <div
           style={{
-            height: "40px",
-            width: "154px",
-            fontSize: "25px",
-            borderRadius: "12px",
-            border: "1px solid white",
-            background: "transparent",
-            color: "white",
+            position: "absolute",
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%",
+            backgroundColor: "rgba(0, 0, 0, 0.6)",
           }}
-        >
-          Explore
-        </Button></a>
+        ></div>
+
+        <div className="text-center" style={{ zIndex: 2 }}>
+          <h2
+            className="font-integral"
+            style={{ fontSize: "28px", color: "white" }}
+          >
+            {title}
+          </h2>
+          <a href="#contactus" style={{ textDecoration: "none" }}>
+            <Button
+              className="btn d-flex justify-content-center align-items-center"
+              style={{
+                height: "40px",
+                width: "154px",
+                fontSize: "25px",
+                borderRadius: "12px",
+                border: "1px solid white",
+                background: "transparent",
+                color: "white",
+              }}
+            >
+              Explore
+            </Button>
+          </a>
+        </div>
       </div>
-    </div>
     </section>
   );
 };
@@ -64,7 +71,12 @@ const Services = () => {
     <div className="container">
       <h1
         className="text-center font-integral"
-        style={{ fontSize: "35px", marginTop: "40px", marginBottom: "40px", color: "#0768BD" }}
+        style={{
+          fontSize: "35px",
+          marginTop: "40px",
+          marginBottom: "40px",
+          color: "#0768BD",
+        }}
       >
         Services
       </h1>
