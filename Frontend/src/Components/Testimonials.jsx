@@ -1,9 +1,8 @@
 export default function Testimonials() {
   return (
     <section id="testimonials">
-      <div className="w-100 position-relative" style={{ height: "275px" }}>
-        <h1
-          className="text-center font-integral"
+      <h1
+          className="container text-center font-integral"
           style={{
             fontSize: "35px",
             marginTop: "40px",
@@ -13,7 +12,7 @@ export default function Testimonials() {
         >
           Testimonials
         </h1>
-
+      <div className="container w-100 position-relative" style={{ height: "400px" }}>
         <script
           src="https://static.elfsight.com/platform/platform.js"
           async
