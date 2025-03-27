@@ -57,8 +57,7 @@ export default function Contact() {
               <br />
               <strong>Phone:</strong> 9698340000, 8903024212
               <br />
-              <br />
-             © Copyrights GKT Tyres. All Rights Reserved.
+              <br />© Copyrights GKT Tyres. All Rights Reserved.
             </p>
           </div>
 
