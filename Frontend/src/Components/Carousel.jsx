@@ -1,6 +1,5 @@
 import CarouselImg from "./assets/Images/Carousel.png";
 
-
 export default function Carousel() {
   return (
     <div
