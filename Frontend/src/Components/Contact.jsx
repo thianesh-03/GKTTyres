@@ -61,17 +61,14 @@ export default function Contact() {
             </p>
           </div>
 
-          {/* Middle Section - Navigation & Social Icons (Side by Side) */}
           <div className="col-md-4 d-flex flex-column align-items-center justify-content-center">
-            {/* Flexbox for Horizontal Layout */}
             <div className="d-flex align-items-center">
-              {/* Navigation Links */}
               <nav className="d-flex flex-column text-center me-4 custom-font fs-5 me-5">
-                <a href="#" className="text-white text-decoration-none my-1">
+                <a href="/" className="text-white text-decoration-none my-1">
                   Home
                 </a>
                 <a
-                  href="#aboutus"
+                  href="/aboutus"
                   className="text-white text-decoration-none my-1"
                 >
                   About us
@@ -83,7 +80,7 @@ export default function Contact() {
                   Services
                 </a>
                 <a
-                  href="#products"
+                  href="/products"
                   className="text-white text-decoration-none my-1"
                 >
                   Products
@@ -102,7 +99,6 @@ export default function Contact() {
                 </a>
               </nav>
 
-              {/* Social Media Icons (Now Aligned to the Right of Nav Links) */}
               <div className="d-flex flex-column align-items-center  ms-5">
                 <a href="mailto:gkttyres@gmail.com" className="mb-2">
                   <img src={gmail} alt="Gmail" width="50" />
@@ -128,8 +124,6 @@ export default function Contact() {
               </div>
             </div>
           </div>
-
-          {/* Right Section - Google Map */}
           <div className="col-md-4 d-flex justify-content-center align-items-center">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3912.2468215895165!2d77.6705363!3d11.3166615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba96e8ea8918187%3A0x1c82ba0edbdfaf40!2sGKT%20Tyres!5e0!3m2!1sen!2sin!4v1743008219888!5m2!1sen!2sin"

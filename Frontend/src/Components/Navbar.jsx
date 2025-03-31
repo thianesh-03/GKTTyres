@@ -16,10 +16,10 @@ function Navbar() {
 
         <NavbarImp.Collapse id="basic-navbar-nav">
           <Nav className="mx-auto custom-font">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#aboutus">About Us</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="/aboutus">About Us</Nav.Link>
             <Nav.Link href="#services">Services</Nav.Link>
-            <Nav.Link href="#products">Products</Nav.Link>
+            <Nav.Link href="/products">Products</Nav.Link>
             <Nav.Link href="#testimonials">Testimonials</Nav.Link>
             <Nav.Link href="#contactus">Contact Us</Nav.Link>
           </Nav>

@@ -1,0 +1,82 @@
+{ "tyres":[
+  {
+    "Name": "Safari MT",
+    "Image": "https://www.goodyear.com/dw/image/v2/BJQJ_PRD/on/demandware.static/-/Sites-goodyear-master-catalog/default/dwe12b9bb7/images/large/Safari_MT_24911.png?sw=900&sh=800&sm=fit&sfrm=png",
+    "Description": "A rugged mud-terrain tire designed for off-road enthusiasts seeking exceptional performance in challenging conditions with reliable on-road handling.",
+    "Features": [
+      "Trail Ready",
+      "Mud Capability",
+      "Rock & Stone Defense",
+      "Abrasion Resistance",
+      "All-Season Driving"
+    ]
+  },
+  {
+    "Name": "Safari AT",
+    "Image": "https://www.goodyear.com/dw/image/v2/BJQJ_PRD/on/demandware.static/-/Sites-goodyear-master-catalog/default/dwf295300f/images/large/Safari_AT_25250.png?sw=900&sh=800&sm=fit&sfrm=png",
+    "Description": "A versatile all-terrain tire that balances off-road capability with on-road comfort, suitable for SUVs and light trucks in various weather conditions.",
+    "Features": [
+      "Grip Assurance",
+      "All Terrain Traction Design",
+      "Stone-Resistant Strength",
+      "Quiet Comfort",
+      "Three-Peak Mountain Snowflake Designation"
+    ]
+  },
+  {
+    "Name": "Edge HT (Light Truck)",
+    "Image": "https://www.goodyear.com/dw/image/v2/BJQJ_PRD/on/demandware.static/-/Sites-goodyear-master-catalog/default/dw332caf31/images/large/Edge_HT_LT_15552.png?sw=900&sh=800&sm=fit&sfrm=png",
+    "Description": "A highway terrain tire specifically designed for light trucks, offering a blend of comfort, longevity, and reliable performance in everyday driving conditions.",
+    "Features": [
+      "All-Season Traction",
+      "Confident Handling",
+      "Enhanced Grip",
+      "Long Lasting"
+    ]
+  },
+  {
+    "Name": "Edge A/T",
+    "Image": "https://www.goodyear.com/dw/image/v2/BJQJ_PRD/on/demandware.static/-/Sites-goodyear-master-catalog/default/dwfd9087ca/images/large/Edge_AT_13447.png?sw=900&sh=800&sm=fit&sfrm=png",
+    "Description": "An all-terrain tire that delivers dependable performance both on and off-road, with a durable design that withstands various driving environments.",
+    "Features": [
+      "Off-Road Traction",
+      "Enhanced Grip",
+      "Long Lasting",
+      "Wet Traction"
+    ]
+  },
+  {
+    "Name": "Edge Sport",
+    "Image": "https://www.goodyear.com/dw/image/v2/BJQJ_PRD/on/demandware.static/-/Sites-goodyear-master-catalog/default/dw6741706e/images/large/Edge_Sport_24786.png?sw=900&sh=800&sm=fit&sfrm=png",
+    "Description": "A performance-oriented tire designed for sports cars and sedans, offering precise handling, responsive steering, and excellent grip in both dry and wet conditions.",
+    "Features": [
+      "Superior wet handling and stopping",
+      "Enhanced all-season handling",
+      "Improved traction",
+      "Reduced road noise and enhanced tread life"
+    ]
+  },
+  {
+    "Name": "Edge Touring A/S",
+    "Image": "https://www.goodyear.com/dw/image/v2/BJQJ_PRD/on/demandware.static/-/Sites-goodyear-master-catalog/default/dw5627f67f/images/large/Edge_Touring_AS_24788.png?sw=900&sh=800&sm=fit&sfrm=png",
+    "Description": "A touring all-season tire focused on providing a comfortable ride, long tread life, and reliable traction for everyday driving in various weather conditions.",
+    "Features": [
+      "All Season traction",
+      "Wet traction",
+      "Long treadwear",
+      "Smooth ride"
+    ]
+  },
+  {
+    "Name": "Edge Touring Plus",
+    "Image": "https://www.goodyear.com/dw/image/v2/BJQJ_PRD/on/demandware.static/-/Sites-goodyear-master-catalog/default/dw7a7af48d/images/large/Edge_Touring_Plus_25045.png?sw=900&sh=800&sm=fit&sfrm=png",
+    "Description": "A premium touring tire that offers enhanced comfort, quieter ride, and improved tread life compared to standard touring tires, with excellent all-weather performance.",
+    "Features": [
+      "All Season traction",
+      "Wet traction",
+      "Long treadwear",
+      "Smooth ride"
+    ]
+  }
+]
+}

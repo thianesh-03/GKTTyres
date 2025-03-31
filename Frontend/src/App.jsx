@@ -5,6 +5,7 @@ import Header from "./Components/Header";
 import Navbar from "./Components/Navbar";
 import Contact from "./Components/Contact";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Products from "./Components/Pages/Products";
 
 function App() {
   return (
@@ -14,10 +15,10 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Landing />} />
-          {/* <Route path="/products" element={<Products />} /> */}
+          <Route path="/products" element={<Products />} />
         </Routes>
-        <Contact />
       </Router>
+      <Contact />
     </>
   );
 }
