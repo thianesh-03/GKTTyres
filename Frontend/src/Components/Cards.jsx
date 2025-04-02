@@ -13,7 +13,7 @@ export default function CardSection() {
           <div className="card-content">
             <h2 className="font-integral">Goodyear’s Authorized</h2>
             <p>4 Wheeler Tyre Dealer</p>
-            <Button className="explore-btn">Explore</Button>
+            <a href="/products"><Button className="explore-btn">Explore</Button></a>
           </div>
         </div>
       </div>
@@ -23,7 +23,7 @@ export default function CardSection() {
           <div className="card-content">
             <h2 className="font-integral">michelin’s Authorized</h2>
             <p>2 Wheeler Tyre Dealer</p>
-            <Button className="explore-btn">Explore</Button>
+            <a href="/products"><Button className="explore-btn">Explore</Button></a>
           </div>
         </div>
       </div>
