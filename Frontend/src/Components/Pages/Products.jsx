@@ -25,12 +25,17 @@ function Products() {
 
   return (
     <div className="container mt-4">
-      <h2 className="font-integral font-primary" style={{
+      <h2
+        className="font-integral font-primary"
+        style={{
           fontSize: "35px",
           marginTop: "25px",
           marginBottom: "30px",
           color: "#0768BD",
-        }}>Select a Brand</h2>
+        }}
+      >
+        Select a Brand
+      </h2>
       <div className="btn-group" role="group">
         <input
           type="radio"
@@ -92,7 +97,9 @@ function Products() {
             </div>
           ))
         ) : (
-          <p className="text-center">No products available for {selectedBrand}.</p>
+          <p className="text-center">
+            No products available for {selectedBrand}.
+          </p>
         )}
       </div>
     </div>
