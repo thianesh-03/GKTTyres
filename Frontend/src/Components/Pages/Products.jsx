@@ -12,7 +12,7 @@ function Products() {
       case "goodyear":
         setProducts(Goodyear?.tyres || []);
         break;
-      case "kelly":
+      case "kelly": 
         setProducts(Kelly?.tyres || []);
         break;
       case "michelin":
