@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import Goodyear from "../Data/Goodyear.json";
 import Kelly from "../Data/Kelly.json";
 import Michelin from "../Data/Michelin2.json";
-
+ 
 function Products() {
   const [selectedBrand, setSelectedBrand] = useState("goodyear");
   const [products, setProducts] = useState([]);
